@@ -1,8 +1,8 @@
 Pruebas de integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
+Nombre del estudiante:Maria del Mar Granda
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria_granda
 
 Prueba 1: Backend activo
 

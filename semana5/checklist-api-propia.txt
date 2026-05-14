@@ -10,7 +10,7 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El frontend consulta información del backend?
 
-Respuesta:
+Respuesta:Sí, el frontend consulta información del backend. con tecnologias HTML
 
 2. Consumo de la API propia
 
