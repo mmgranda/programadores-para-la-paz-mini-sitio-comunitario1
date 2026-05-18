@@ -1,6 +1,6 @@
 Checklist final del README – Clase 25
 
-Nombre del estudiante:
+Nombre del estudiante:Maria del Mar Granda
 Fecha:
 Nombre de la rama:
 
@@ -10,7 +10,7 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El README explica el propósito del proyecto?
 
-Respuesta:
+Respuesta: si, Construir progresivamente un mini-sitio comunitario que consuma una API propia para mostrar mensajes, calendario editorial y elementos de seguimiento comunitario.
 
 2. Instalación
 

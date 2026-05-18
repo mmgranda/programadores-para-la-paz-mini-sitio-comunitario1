@@ -10,19 +10,19 @@ Respuesta:
 
 2. ¿Qué rama actualizan los docentes?
 
-Respuesta:
+Respuesta:Main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
-Respuesta:
+Respuesta:maria_granda
 
 4. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta:git clone URL_REPOSITORIO
 
 5. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta:cd
 
 6. Comando usado para crear tu rama personal:
 

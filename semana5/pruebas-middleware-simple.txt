@@ -2,7 +2,7 @@ Pruebas de middleware simple – Clase 25
 
 Nombre del estudiante:
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria_granda
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -34,7 +34,7 @@ El sistema responde login pedagógico correcto y guarda token de demostración.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta:si, Login pedagógico correcto. Ya puedes probar la ruta protegida.
 
 Prueba 3: Ruta protegida después del login
 

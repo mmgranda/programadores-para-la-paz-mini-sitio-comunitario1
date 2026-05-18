@@ -43,3 +43,11 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - cultura de paz
 
 Respuesta:
+Desde las primeras clases mi forma de trabajar cambió mucho, porque aprendí a organizar todo en un GitHub y en un repositorio compartido.
+Ahora entiendo que la rama main contiene la versión estable del proyecto y que cada integrante debe trabajar en su rama personal.
+Con git pull y fast-forward puedo actualizar mi trabajo sin perder los cambios realizados por mis compañeros.
+También aprendí a registrar cada avance con un commit y a enviarlo al repositorio remoto con push.
+En el desarrollo del proyecto utilicé HTML, CSS y JavaScript para construir la interfaz del sitio.
+Con Node.js, Express y una API en formato JSON logré conectar el backend con el frontend.
+Además, el README me ayudó a documentar el proyecto y a mantener claridad en el trabajo colaborativo.
+Finalmente, comprendí que la tecnología puede apoyar la participación ciudadana y fortalecer una cultura de paz.
